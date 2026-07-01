@@ -56,3 +56,4 @@ I build practical AI solutions around multi-agent workflows, telecom RCA, RAG, a
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sourabha-haldar-08868417/)
 - 🧑‍💻 [GitHub](https://github.com/sourabha-h)
+- :people_hugging: [Hugging Face](https://huggingface.co/ai-assist-sh)
