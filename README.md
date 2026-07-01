@@ -4,6 +4,12 @@ Solution Architect - AI | Agentic AI | Telecom Automation | RAG Systems
 
 I build practical AI solutions around multi-agent workflows, telecom RCA, RAG, anomaly detection, and intelligent automation.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=flat)
+
 ## 🚀 Start Here
 
 - 🧠 [Autonomous Operation Center POC](https://github.com/sourabha-h/aoc-agentic-ai-poc) - Multi-agent AI workflow for infrastructure discovery, triage, remediation, approval, and verification.
