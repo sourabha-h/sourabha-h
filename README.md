@@ -12,7 +12,7 @@ I build practical AI solutions around multi-agent workflows, telecom RCA, RAG, a
 
 ## 🚀 Start Here
 
-- 🧠 [Autonomous Operation Center](https://github.com/sourabha-h/aoc-agentic-ai-poc) - Multi-agent AI workflow for infrastructure discovery, triage, remediation, approval, and verification.
+- 🧠 [Autonomous Operation Center](https://github.com/sourabha-h/aoc-agentic-ai-poc) - Agentic workflow for infrastructure discovery, triage, remediation, approval, and verification.
 - 🔎 [Industrial RAG with Milvus](https://github.com/sourabha-h/milvus-industrial-rag) - Traceable document search using embeddings, metadata filtering, and guarded answer generation.
 - 📡 [Telecom Recharge RCA Agent](https://github.com/sourabha-h/telecom-recharge-rca-agent) - Agentic workflow for recharge complaints, voucher checks, CDR/EDR evidence, and RCA.
 - 🛠️ [LLM RAG Fine-tuning Demo](https://github.com/sourabha-h/llm-rag-finetune-demo) - Comparison of Normal LLM, RAG, fine-tuned LLM, and fine-tuned LLM with RAG.
